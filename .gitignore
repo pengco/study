@@ -1,8 +1,15 @@
+#Output 폴더
+dist
+node_modules
+
+
+#바로바로 수정
+
+
 # Prerequisites
 *.d
 
 # Object files
-*.o
 *.ko
 *.obj
 *.elf
